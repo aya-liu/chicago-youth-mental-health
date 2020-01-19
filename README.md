@@ -1,2 +1,1 @@
-# chicago-youth-mental-health
-Visualize youth mental health in Chicago
+# map cps school counselors
